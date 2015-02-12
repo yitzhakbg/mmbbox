@@ -17,7 +17,7 @@ module.exports = function(grunt) {
     },
 
     watch: {
-      grunt: { files: ['Gruntfile.js','source/index.html.haml','source/layouts/layout.haml'] },
+      grunt: { files: ['Gruntfile.js'] },
 
       sass: {
         files: 'scss/**/*.scss',
