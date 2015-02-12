@@ -1,0 +1,9 @@
+{
+  "name": "snappy",
+  "version": "0.1",
+  "private": "true",
+  "dependencies": {
+    "foundation": "zurb/bower-foundation",
+    "fontawesome": "~4.3.0"
+  }
+}
