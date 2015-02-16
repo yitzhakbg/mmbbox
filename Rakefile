@@ -1,4 +1,4 @@
-namespace :source do
+namespace :assets do
   task :precompile do
     sh 'middleman build'
   end

@@ -2,6 +2,8 @@
 # Blog settings
 ###
 
+set :haml, :format => :html5
+
 # Time.zone = "UTC"
 
 activate :blog do |blog|
