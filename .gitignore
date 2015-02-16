@@ -5,13 +5,12 @@
 # git config --global core.excludesfile ~/.gitignore_global
 
 # Ignore bundler config
-/.bundle
+# .bundle
 
 # Ignore the build directory
-/build
+build
 
 # Ignore cache
-/.sass-cache
 .sass-cache
 .cache
 
@@ -21,3 +20,4 @@ node_modules
 source/bower_components
 source/assets
 bin
+*.sublime-workspace
