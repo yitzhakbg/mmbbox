@@ -22,53 +22,6 @@
 
   %body
     #main{:role => "main"}
-    .row
-      .large-12.columns
-        .nav-bar.right
-          %ul.button-group
-            %li
-              %a.button{:href => "#"} Link 1
-            %li
-              %a.button{:href => "#"} Link 2
-            %li
-              %a.button{:href => "#"} Link 3
-            %li
-              %a.button{:href => "#"} Link 4
-        %h1
-          Blog
-          %small This is my blog. It's awesome.
-        %hr/
-    %aside.large-3.columns.right
-      %h5 Categories
-      %ul.side-nav.right
-        %li
-          %a{:href => "#"} News
-        %li
-          %a{:href => "#"} Code
-        %li
-          %a{:href => "#"} Design
-        %li
-          %a{:href => "#"} Fun
-        %li
-          %a{:href => "#"} Weasels
-        .panel
-          %h5 Featured
-          %p Pork drumstick turkey fugiat. Tri-tip elit turducken pork chop in. Swine short ribs meatball irure bacon nulla pork belly cupidatat meatloaf cow.
-          %a{:href => "#"} Read More &#8594;
-    %aside.left
-      %h2 Recent Articles
-      %ol
-        - blog.articles[0...10].each do |article|
-          %li
-            = link_to article.title, article
-            %span= article.date.strftime('%b %e')
-      %h2 Tags
-      %ol
-        - blog.tags.each do |tag, articles|
-          %li= link_to "#{tag} (#{articles.size})", tag_path(tag)
-      %h2 By Year
-      %ol
-        - blog.articles.group_by {|a| a.date.year }.each do |year, articles|
-          %li= link_to "#{year} (#{articles.size})", blog_year_path(year)
+    = partial 'header'
     = yield
     = partial 'footer'
