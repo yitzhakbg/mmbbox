@@ -1,4 +1,4 @@
-  {
+{
 	"auto_complete":
 	{
 		"selected_items":
@@ -28,18 +28,34 @@
 	"buffers":
 	[
 		{
-			"file": "Gruntfile.js",
+			"file": "source/layouts/layout.haml",
 			"settings":
 			{
-				"buffer_size": 743,
+				"buffer_size": 1120,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "source/layouts/layout.haml",
+			"file": "source/index.html.haml",
+			"settings":
+			{
+				"buffer_size": 685,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/layouts/layout.tthaml",
 			"settings":
 			{
 				"buffer_size": 1595,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config.rb",
+			"settings":
+			{
+				"buffer_size": 2707,
 				"line_ending": "Unix"
 			}
 		}
@@ -112,14 +128,30 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/ybg/.middleman/middleman-HamLibSassFound",
-		"/Users/ybg/.middleman/middleman-HamLibSassFound/source",
-		"/Users/ybg/.middleman/middleman-HamLibSassFound/source/javascripts",
-		"/Users/ybg/.middleman/middleman-HamLibSassFound/source/layouts",
-		"/Users/ybg/.middleman/middleman-HamLibSassFound/source/stylesheets"
+		"/Users/ybg/Blogs/qqq",
+		"/Users/ybg/Blogs/qqq/source",
+		"/Users/ybg/Blogs/qqq/source/layouts"
 	],
 	"file_history":
 	[
+		"/Users/ybg/Blogs/qqq/source/index.html.haml",
+		"/Users/ybg/Blogs/qqq/Gemfile",
+		"/Users/ybg/Blogs/qqq/config.rb",
+		"/Users/ybg/Blogs/middleman-HamLibSassFound/.bowerrc",
+		"/Users/ybg/Blogs/middleman-HamLibSassFound/source/blog_index.html.haml",
+		"/Users/ybg/Blogs/middleman-HamLibSassFound/source/layouts/blog_index_layout.haml",
+		"/Users/ybg/Blogs/middleman-HamLibSassFound/source/index.html.erb",
+		"/Users/ybg/Blogs/middleman-HamLibSassFound/source/index.html.haml",
+		"/Users/ybg/Blogs/middleman-HamLibSassFound/source/feed.xml.builder",
+		"/Users/ybg/Blogs/middleman-HamLibSassFound/source/layout.erb",
+		"/Users/ybg/Blogs/middleman-HamLibSassFound/README.md",
+		"/Users/ybg/Blogs/middleman-HamLibSassFound/config.rb",
+		"/Volumes/UsersOnTank/ybg/Projects/Blogs/Middlemen/jjj/Gemfile",
+		"/Users/ybg/Blogs/middleman-HamLibSassFound/Gemfile",
+		"/Volumes/UsersOnTank/ybg/Projects/Blogs/Middlemen/jjj/config.rb",
+		"/Volumes/Work/Dropbox/Documents/BlogMaterial/Saved Pages/Unmasking Western Hypocrisy/Germany remembers Allied firebombing of Dresden.html",
+		"/Users/ybg/Blogs/middleman-HamLibSassFound/source/layouts/layout.haml",
+		"/Users/ybg/Blogs/middleman-HamLibSassFound/Gruntfile.js",
 		"/Users/ybg/.middleman/middleman-HamLibSassFound/source/javascripts/app.js.coffee",
 		"/Users/ybg/.middleman/middleman-HamLibSassFound/source/javascripts/all.js",
 		"/Users/ybg/.middleman/middleman-HamLibSassFound/config.rb",
@@ -229,25 +261,7 @@
 		"/tank/Users/ybg/Projects/foundation/midblogfound/bower_components/foundation/scss/foundation.scss",
 		"/tank/Users/ybg/Projects/foundation/midblogfound/css/app.css.map",
 		"/tank/Users/ybg/Projects/foundation/midblogfound/package.json",
-		"/tank/Users/ybg/Projects/foundation/middleman-blog-bootstrap-template/wasGruntfile.js",
-		"/tank/Users/ybg/Projects/middleman-blog-bootstrap-template/Gruntfile.js",
-		"/tank/Users/ybg/Projects/middleman-blog-bootstrap-template/source/layouts/layout.slim",
-		"/tank/Users/ybg/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-		"/tank/Users/ybg/Library/Application Support/Sublime Text 3/Packages/Cheat Sheets/cheat-sheets/Sublime Text.cheatsheet",
-		"/tank/Users/ybg/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-		"/tank/Users/ybg/Library/Application Support/Sublime Text 3/Packages/User/MultiMarkdown.sublime-settings",
-		"/tank/Users/ybg/Library/Application Support/Sublime Text 3/Packages/User/Markdown.sublime-settings",
-		"/tank/Users/ybg/Library/Application Support/Sublime Text 3/Packages/User/Markdown (Standard).sublime-settings",
-		"/tank/Users/ybg/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/Markdown (Standard).sublime-settings",
-		"/tank/Users/ybg/Projects/middleman-blog-bootstrap-template/bower.json",
-		"/tank/Users/ybg/Projects/middleman-blog-bootstrap-template/Gemfile",
-		"/tank/Users/ybg/Projects/middleman-blog-bootstrap-template/Gemfile.lock",
-		"/tank/Users/ybg/Projects/middleman-blog-bootstrap-template/source/posts/2014-01-01-example-article.html.md",
-		"/tank/Users/ybg/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/MultiMarkdown.sublime-settings",
-		"/tank/Users/ybg/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/Markdown.sublime-settings",
-		"/tank/Users/ybg/Projects/middleman-blog-bootstrap-template/.project",
-		"/tank/Users/ybg/Projects/middleman-blog-bootstrap-template/config.rb",
-		"/tank/Users/ybg/Projects/middleman-blog-bootstrap-template/wasGruntfile.js"
+		"/tank/Users/ybg/Projects/foundation/middleman-blog-bootstrap-template/wasGruntfile.js"
 	],
 	"find":
 	{
@@ -282,6 +296,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"\n#",
+			"%2070%20years%20on%20-%20International%20-%20Jerusalem%20Post",
+			"PHOTO%20GALLERY_%20",
 			"Error: Could not locate layout:",
 			" admin",
 			" \"",
@@ -361,6 +378,9 @@
 		"regex": false,
 		"replace_history":
 		[
+			"",
+			"PHOTO%20GALLERY_%20",
+			""
 		],
 		"reverse": false,
 		"show_context": true,
@@ -376,128 +396,25 @@
 			[
 				{
 					"buffer": 0,
-					"file": "Gruntfile.js",
+					"file": "source/layouts/layout.haml",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 743,
+						"buffer_size": 1120,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								468,
-								468
+								43,
+								43
 							]
 						],
 						"settings":
 						{
-							"codeintel": true,
-							"codeintel_config":
-							{
-								"JavaScript":
-								{
-									"codeintel_max_recursive_dir_depth": 2,
-									"codeintel_scan_files_in_project": false,
-									"javascriptExtraPaths":
-									[
-									]
-								},
-								"PHP":
-								{
-									"codeintel_max_recursive_dir_depth": 5,
-									"codeintel_scan_files_in_project": false,
-									"phpExtraPaths":
-									[
-									]
-								},
-								"Python":
-								{
-									"env":
-									{
-									}
-								}
-							},
-							"codeintel_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_live": true,
-							"codeintel_live_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_max_recursive_dir_depth": 10,
-							"codeintel_scan_exclude_dir":
-							{
-								"JavaScript":
-								[
-									"/build/",
-									"/min/"
-								]
-							},
-							"codeintel_scan_files_in_project": true,
-							"codeintel_selected_catalogs":
-							[
-								"PyWin32",
-								"jQuery",
-								"Rails"
-							],
-							"codeintel_snippets": true,
-							"codeintel_syntax_map":
-							{
-								"Python Django": "Python"
-							},
-							"codeintel_tooltips": "popup",
-							"sublime_auto_complete": true,
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"auto_complete": false,
+							"syntax": "Packages/Rails/Ruby Haml.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
@@ -510,7 +427,37 @@
 				},
 				{
 					"buffer": 1,
-					"file": "source/layouts/layout.haml",
+					"file": "source/index.html.haml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 685,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								133,
+								684
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby Haml.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "source/layouts/layout.tthaml",
 					"semi_transient": false,
 					"settings":
 					{
@@ -521,116 +468,13 @@
 						"selection":
 						[
 							[
-								1232,
-								1232
+								647,
+								635
 							]
 						],
 						"settings":
 						{
-							"codeintel": true,
-							"codeintel_config":
-							{
-								"JavaScript":
-								{
-									"codeintel_max_recursive_dir_depth": 2,
-									"codeintel_scan_files_in_project": false,
-									"javascriptExtraPaths":
-									[
-									]
-								},
-								"PHP":
-								{
-									"codeintel_max_recursive_dir_depth": 5,
-									"codeintel_scan_files_in_project": false,
-									"phpExtraPaths":
-									[
-									]
-								},
-								"Python":
-								{
-									"env":
-									{
-									}
-								}
-							},
-							"codeintel_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_live": true,
-							"codeintel_live_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_max_recursive_dir_depth": 10,
-							"codeintel_scan_exclude_dir":
-							{
-								"JavaScript":
-								[
-									"/build/",
-									"/min/"
-								]
-							},
-							"codeintel_scan_files_in_project": true,
-							"codeintel_selected_catalogs":
-							[
-								"PyWin32",
-								"jQuery",
-								"Rails"
-							],
-							"codeintel_snippets": true,
-							"codeintel_syntax_map":
-							{
-								"Python Django": "Python"
-							},
-							"codeintel_tooltips": "popup",
-							"sublime_auto_complete": true,
+							"auto_complete": false,
 							"syntax": "Packages/Rails/Ruby Haml.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
@@ -639,7 +483,38 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "config.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2707,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								362,
+								362
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 765.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
 					"type": "text"
 				}
 			]
@@ -744,7 +619,7 @@
 	},
 	"select_symbol":
 	{
-		"height": 73.0,
+		"height": 51.0,
 		"selected_items":
 		[
 			[
