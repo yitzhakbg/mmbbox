@@ -23,5 +23,6 @@
   %body
     #main{:role => "main"}
     = partial 'header'
-    = yield
+    %aside.middle
+      = yield
     = partial 'footer'
